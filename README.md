@@ -14,7 +14,7 @@
 "https://cdnjs.cloudflare.com/ajax/libs/mathjs/10.6.4/math.min.js"
         integrity= 
 "sha512-iphNRh6dPbeuPGIrQbCdbBF/qcqadKWLa35YPVfMZMHBSI6PLJh1om2xCTWhpVpmUyb4IvVS9iYnnYMkleVXLA=="
-        crossorigin="anonymous"
+        crossorigin="anonymous"f
         referrerpolicy="no-referrer"></script> 
     
     <!-- For styling -->
